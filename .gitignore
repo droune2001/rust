@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 /tuto/target
 /cmd.lnk
+RUST.lnk
